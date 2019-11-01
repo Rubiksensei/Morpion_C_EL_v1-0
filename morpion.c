@@ -4,6 +4,7 @@
 const char signe1='X';
 const char signe2='O';
 
+//Prototypes des fonctions secondaires
 void initGrid(char grid[3][3]);
 void printGrid(char grid[3][3]);
 void initPlayer(char players[2][50], char signs[2]);
